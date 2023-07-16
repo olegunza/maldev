@@ -8,6 +8,7 @@ Indirect syscalls
 https://redops.at/en/blog/direct-syscalls-vs-indirect-syscalls
 
 C2 
+
 Sliver guide
 https://dominicbreuker.com/post/learning_sliver_c2_01_installation/
 
