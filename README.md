@@ -12,4 +12,5 @@ C2
 Sliver guide
 https://dominicbreuker.com/post/learning_sliver_c2_01_installation/
 
-
+Dll Notification injection
+https://shorsec.io/blog/dll-notification-injection/
